@@ -1,5 +1,5 @@
 module.exports = {
   entry: { index: require.resolve("./") },
   output: { filename: "[name].built.js" },
-  alias: { "toaster": "underscore" }
+  resolve: { alias: { "toaster": "underscore" } }
 }

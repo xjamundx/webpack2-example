@@ -10,6 +10,13 @@ Why does the new `alias` config not seem to work:
 
 See: https://gist.github.com/sokra/27b24881210b56bbaff7
 
+Answer, wrap it in `resolve`: 
+
+
+```
+{ resolve: { alias: { /* aliases... */ } }
+```
+
 ## Question 2
 
 ...
