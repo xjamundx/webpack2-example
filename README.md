@@ -8,6 +8,7 @@ Why does the new `alias` config not seem to work:
 
 <img width="784" alt="screen shot 2016-02-01 at 9 08 15 am" src="https://cloud.githubusercontent.com/assets/246143/12724656/bb8b8d12-c8c3-11e5-94e2-f640594b0341.png">
 
+See: https://gist.github.com/sokra/27b24881210b56bbaff7
 
 ## Question 2
 
