@@ -1,0 +1,15 @@
+{
+  "name": "webpack2-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "underscore": "^1.8.3",
+    "webpack": "^2.0.6-beta"
+  }
+}
