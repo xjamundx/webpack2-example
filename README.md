@@ -19,4 +19,6 @@ Answer, wrap it in `resolve`:
 
 ## Question 2
 
-...
+The `browser` field doesn't seem to work anymore?
+
+Swap `mainFields: ['main', 'browser']` with `mainFields: ['browser', 'main']`
